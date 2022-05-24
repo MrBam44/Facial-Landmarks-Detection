@@ -1,6 +1,6 @@
 # Facial-Landmarks-Detection
 In this project, we will see how to find 468 facial landmarks easily using a library called mediapipe , extract the X and Y coordinates
-so we can use them as we like. We will see how to do it on an images.
+so we can use them as we like. We will see how to do it first on an image and then on the videos.
 There are a lot of applications for this type of function. Here are some examples on the site:
 
  1.  Face swapping (explained in 8 steps) – Opencv with Python
